@@ -1,0 +1,21 @@
+{
+  "name": "hopetech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-create-ux/Smart-Shelter-Management-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/L-create-ux/Smart-Shelter-Management-/issues"
+  },
+  "homepage": "https://github.com/L-create-ux/Smart-Shelter-Management-#readme",
+  "description": ""
+}
