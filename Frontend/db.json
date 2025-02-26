@@ -1,0 +1,334 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Adam",
+      "email": "adm@gmail.com",
+      "password": "ad1234"
+    },
+    {
+      "id": "8851",
+      "name": "adam",
+      "email": "22cs022@psr.edu.in",
+      "password": "psr@11234"
+    },
+    {
+      "id": "456c",
+      "name": "divya",
+      "email": "divi711@gmail.com",
+      "password": "divi711"
+    },
+    {
+      "id": "95c6",
+      "name": "anu",
+      "email": "anu@1234",
+      "password": "1234"
+    },
+    {
+      "id": "f1f9",
+      "name": "abi",
+      "email": "abi@gmail.com",
+      "password": "abi"
+    },
+    {
+      "id": "92b6",
+      "name": "laks",
+      "email": "laks@gmail.com",
+      "password": "laks"
+    },
+    {
+      "id": "b3f0",
+      "name": "anupriya",
+      "email": "anupriya2005@gmail.com",
+      "password": "anu"
+    },
+    {
+      "id": "108d",
+      "name": "anupriya",
+      "email": "anupriya2005@gmail.com",
+      "password": "anu"
+    },
+    {
+      "id": "d258",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "password": "adam1"
+    },
+    {
+      "id": "d42c",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "ee41",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "password": "adam2"
+    },
+    {
+      "id": "2949",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "password": "adam1"
+    },
+    {
+      "id": "4295",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "password": "adam1"
+    },
+    {
+      "id": "86aa",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "location": "1234fgsdfrh"
+    },
+    {
+      "id": "b33f",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "location": "1234fgsdfrh"
+    },
+    {
+      "id": "4b5b",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "number": "766786798678678",
+      "address": ",mtyjy5y",
+      "password": "adam1",
+      "availability": "pt",
+      "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1709209824694/e87cafe16bd7a6311e4422a4079e9a08.png"
+    },
+    {
+      "id": "8a91",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "number": "8888888888888",
+      "address": ",mtyjy5y",
+      "password": "yu6yui",
+      "availability": "pt",
+      "image": ""
+    },
+    {
+      "id": "00c9",
+      "name": "adam1",
+      "email": "abi@gmail.com",
+      "number": "",
+      "address": "wgrrty",
+      "password": "adam1",
+      "availability": "",
+      "image": ""
+    },
+    {
+      "id": "7dbf",
+      "name": "kalai",
+      "email": "kalai@gmail.com",
+      "number": "12345678",
+      "address": "south",
+      "password": "kalai",
+      "availability": "",
+      "image": ""
+    },
+    {
+      "id": "58c9",
+      "name": "Murugalakshmi",
+      "email": "muruga711@gmail.com",
+      "number": "8769464569486",
+      "address": "north street",
+      "password": "muruga711",
+      "availability": "",
+      "image": ""
+    }
+  ],
+  "product": [
+    {
+      "name": "samsung",
+      "price": "122334",
+      "desc": "good..",
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s721blbbins/gallery/in-galaxy-s24-fe-s721-sm-s721blbbins-thumb-543757306",
+      "id": "1325"
+    },
+    {
+      "name": "vivo",
+      "price": "12000",
+      "desc": "too good",
+      "img": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1709209824694/e87cafe16bd7a6311e4422a4079e9a08.png",
+      "id": "1677"
+    },
+    {
+      "id": "beeb",
+      "name": "samsung",
+      "price": "20000",
+      "desc": "nice",
+      "img": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1709209824694/e87cafe16bd7a6311e4422a4079e9a08.png"
+    },
+    {
+      "name": "moto",
+      "price": "15000",
+      "desc": "Motorola Mobility LLC, marketing as Motorola, is an American consumer electronics manufacturer primarily producing smartphones and other mobile devices running Android.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-COab_-h0lORMUhPMdg0JiBMK92i9Hn5hw&s",
+      "id": "b0cf"
+    },
+    {
+      "id": "c21d",
+      "name": "moto",
+      "price": "550000",
+      "desc": "good to use",
+      "img": "https://motorolain.vtexassets.com/arquivos/ids/159190-800-auto?width=800&height=auto&aspect=true"
+    }
+  ],
+  "reports": [
+    {
+      "id": "7f6d"
+    },
+    {
+      "id": "2b6e",
+      "image": "WhatsApp Image 2025-02-24 at 7.29.53 PM.jpeg",
+      "location": "Latitude: 9.9264, Longitude: 78.1205",
+      "category": "disabled",
+      "description": "hkh",
+      "date": "26/2/2025, 6:06:10 am"
+    },
+    {
+      "id": "0984",
+      "image": "WhatsApp Image 2025-02-24 at 7.29.53 PM.jpeg",
+      "location": "Latitude: 9.9264, Longitude: 78.1205",
+      "category": "disabled",
+      "description": "hkh",
+      "date": "26/2/2025, 6:29:25 am"
+    },
+    {
+      "id": "5453",
+      "image": "WhatsApp Image 2025-02-24 at 7.29.53 PM.jpeg",
+      "location": "Latitude: 9.9264, Longitude: 78.1205",
+      "category": "elderly",
+      "description": "gu",
+      "date": "26/2/2025, 6:40:07 am"
+    }
+  ],
+  "formData": [
+    {
+      "username": "abi",
+      "email": "abi@gmail.com",
+      "password": "1234",
+      "degree": "",
+      "id": "1503"
+    },
+    {
+      "id": "4233",
+      "username": "tyt",
+      "email": "muruga711@gmail.com",
+      "password": "3453",
+      "degree": "me"
+    },
+    {
+      "id": "3980",
+      "username": "abi",
+      "email": "muruga711@gmail.com",
+      "password": "123",
+      "degree": "be"
+    },
+    {
+      "id": "9d37",
+      "username": "anu",
+      "email": "anu711@gmail.com",
+      "password": "1234",
+      "degree": "be"
+    },
+    {
+      "id": "9d0a",
+      "username": "karthika",
+      "email": "karthika1@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "727b",
+      "username": "gowsi",
+      "email": "ma@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "aa21",
+      "username": "EXAM11",
+      "email": "amma@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "87a1",
+      "username": "abca",
+      "email": "abca@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3668",
+      "username": "22CS005",
+      "email": "anu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9772",
+      "username": "22CS005",
+      "email": "anu@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "Orphanage": [
+    {
+      "name": "SAARAH TRUST",
+      "address": "Located in Venkatachalapuram Sattur",
+      "categories": "homeless people orpanage",
+      "image": "https://content.jdmagicbox.com/comp/coimbatore/p4/0422px422.x422.131019131805.i4p4/catalogue/karunai-illam-kavundampalayam-coimbatore-ngos-3zkldj5.jpg",
+      "id": "def8"
+    },
+    {
+      "name": "Vmmk Orphanage Home",
+      "address": " Located in Perali Road Bala Nagar",
+      "categories": "muthiyor illam",
+      "image": "https://content.jdmagicbox.com/comp/thoothukudi/z9/9999px461.x461.111206144749.r4z9/catalogue/annai-karunai-illam-millerpuram-thoothukudi-ngos-for-child-labour-dfqbcrzfh6.jpg",
+      "id": "4df8"
+    },
+    {
+      "name": "Kamarajar Kulanthaikal Kappagam",
+      "address": "Located in Chatrareddiapatti",
+      "categories": "physically disabled people",
+      "image": "https://content.jdmagicbox.com/v2/comp/madurai/x4/0452px452.x452.231222040617.d9x4/catalogue/joy-childrens-home-madurai-orphanages-for-children-jg0jz7l9bk.jpg",
+      "id": "3821"
+    },
+    {
+      "name": "Deepam Trust",
+      "address": "Located in Vathirairuppu Road Kottaiyur",
+      "categories": "Childrens home",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSu-E-W4cvR80Tifl28hKqWMbs5Qb5nQpbg&s",
+      "id": "86c8"
+    },
+    {
+      "name": "Mahathma Karunai Illam",
+      "address": "Trichy",
+      "categories": "children",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSu-E-W4cvR80Tifl28hKqWMbs5Qb5nQpbg&s",
+      "id": "9801"
+    },
+    {
+      "id": "88e6",
+      "name": "deepam",
+      "address": "north street",
+      "categories": "childd",
+      "image": "download.jpg"
+    },
+    {
+      "id": "7568",
+      "name": "deepam",
+      "address": "north street",
+      "categories": "childd",
+      "image": "download.jpg"
+    },
+    {
+      "id": "5279",
+      "name": "deepam",
+      "address": "khkh",
+      "categories": "childd",
+      "image": "download.jpg"
+    }
+  ]
+}
